@@ -1,11 +1,11 @@
 ---
 layout: page
-title:  "Tad Thorley"
-username: phaedryx
-fullname: "Tad Thorley"
+title:  "Zakaria Braksa"
+username: qbraksa
+fullname: "Zakaria Braksa"
 ---
-On the quiet side. A bit peculiar. A good companion, in a weird sort of way.
+Entrepreneur. iOS Software Engineer. 
 
-"blog":http://tadthorley.com
-"twitter":http://twitter.com/phaedryx
-"github":https://github.com/phaedryx
+"blog":http://braksa.com
+"twitter":http://twitter.com/qbraks
+"github":https://github.com/qbraksa

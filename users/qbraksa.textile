@@ -7,5 +7,5 @@ fullname: "Zakaria Braksa"
 Entrepreneur. iOS Software Engineer. 
 
 "blog":http://braksa.com
-"twitter":http://twitter.com/qbraks
+"twitter":http://twitter.com/qbraksa
 "github":https://github.com/qbraksa

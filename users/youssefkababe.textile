@@ -1,0 +1,11 @@
+---
+layout: page
+title:  "Youssef kababe"
+username: YoussefKababe
+fullname: "Youssef Kababe"
+---
+Ruby/Rails developer, and a generally good person. I know you don't care!
+
+"blog":http://moroccanrubyist.com
+"twitter":http://twitter.com/youssefkababe
+"github":https://github.com/Youssefkababe

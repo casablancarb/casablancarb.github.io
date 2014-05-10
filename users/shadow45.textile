@@ -1,0 +1,11 @@
+---
+layout: page
+title:  "Yasser JENNANI"
+username: Shadow45
+fullname: "Yasser Jennani"
+---
+Rails And Mobile Developer. 
+
+
+"twitter":http://twitter.com/CGYasser
+"github":https://github.com/shadow45

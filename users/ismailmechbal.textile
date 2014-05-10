@@ -1,0 +1,11 @@
+---
+layout: page
+title:  "Ismail Mechbal"
+username: ismailmechbal
+fullname: "Ismail Mechbal"
+---
+ROR passionate, UX newbie, Startup enthusiast & father of two!
+
+"Company website":http://www.unik.ma
+"twitter":http://twitter.com/ismailmechbal
+"github":https://github.com/ismailmechbal

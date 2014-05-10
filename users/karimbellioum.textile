@@ -1,0 +1,11 @@
+---
+layout: page
+title:  "Karim Bellioum"
+username: kbellioum
+fullname: "Karim Bellioum"
+---
+Karim works primarily as security consultant, in his free time he enjoys coding!
+
+"Company website":http://www.itknowledgemaroc.com
+"twitter":http://twitter.com/kbellioum
+"github":https://github.com/kbellioum

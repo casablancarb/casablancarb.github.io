@@ -1,0 +1,11 @@
+---
+layout: page
+title:  "Yassine El Fadili"
+username: elfadiliy
+fullname: "Yassine El Fadili"
+---
+Chief Product Officer @Jacently, Startup and entrepreneurship enthusiast, Rails / Android / Node.js Enthusiast
+
+"Company website":http://www.mobiacube.com
+"Blog":http://www.elfadili.com
+"Twitter":http://twitter.com/elfadiliy
